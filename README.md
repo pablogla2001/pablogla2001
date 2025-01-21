@@ -1,54 +1,88 @@
-<header>
+# Blog Personal
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+## Sobre Mí
 
-# GitHub Pages
+Hola, soy **Pablo García López-Arias**, ingeniero industrial y MBA por la Universidad Pontificia Comillas, apasionado por la consultoría, la optimización de procesos y el desarrollo tecnológico. A lo largo de mi carrera he compaginado estudios, prácticas profesionales y actividades extracurriculares como el arbitraje y la participación en un equipo de Fórmula Student, lo que me ha permitido desarrollar habilidades como liderazgo, resolución de problemas y trabajo en equipo.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+## Experiencia Profesional
 
-</header>
+### Talent Energy Internship - Repsol S.A.  
+**Madrid, España** (Septiembre 2024 - Actualidad)
+- Automatización de tareas relacionadas con transacciones de negocio en los departamentos de refinado y química.
+- Uso de herramientas como Automation Anywhere, Power Automate y SAP.
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+### Árbitro 3ºRFEF y Asistente en 2ºRFEF - Real Federación Española de Fútbol  
+**España** (Septiembre 2017 - Actualidad)
+- Árbitro más joven en la división 3ºRFEF.
+- Tres ascensos consecutivos en tres años.
+- Gestión de equipos en más de 1,000 partidos con público de hasta 2,000 personas.
 
-## Step 1: Enable GitHub Pages
+### Software Developer Internship - Esycontrol  
+**Vigo, España** (Abril 2023 - Junio 2023)
+- Desarrollo de una interfaz Blazor para control de procesos industriales.
+- Creación de un generador automático de entidades para optimizar la producción de código.
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+### Miembro del Departamento de Propulsión - UVigo Motorsport  
+**Vigo, España** (Octubre 2020 - Abril 2021)
+- Diseño y mejora de sistemas de propulsión vehicular.
+- Participación en competiciones internacionales en España, Alemania y Países Bajos.
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+## Formación Académica
 
-### :keyboard: Activity: Enable GitHub Pages
+- **MBA** - Universidad Pontificia Comillas, Madrid  
+- **Máster en Ingeniería Industrial** - Universidad Pontificia Comillas, Madrid  
+- **Grado en Ingeniería en Tecnologías Industriales** - Universidad de Vigo, Vigo (2023)  
+  - Matrícula de honor en Cálculo II y Ecuaciones Diferenciales.
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+## Habilidades
 
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+- Lenguajes de programación: Python, C#.
+- Diseño CAD: Catia V5.
+- Automatización: Automation Anywhere, Power Automate.
+- Idiomas: Español (nativo), Inglés (C1).
+- Competencias blandas: Liderazgo, trabajo en equipo, toma de decisiones bajo presión.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+# CV en Formato README
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+```markdown
+# Pablo García López-Arias
 
-</footer>
+📫 Contacto: pablogla2001@gmail.com  
+🌐 LinkedIn: [Perfil](https://www.linkedin.com/in/pablo-garcialopezarias)  
+
+## 📚 Formación
+- **MBA** - Universidad Pontificia Comillas, Madrid
+- **Máster en Ingeniería Industrial** - Universidad Pontificia Comillas, Madrid
+- **Grado en Ingeniería en Tecnologías Industriales** - Universidad de Vigo
+
+## 💼 Experiencia Profesional
+
+### Talent Energy Internship - Repsol S.A.
+- Automatización de procesos empresariales.
+- Herramientas: Automation Anywhere, Power Automate, SAP.
+
+### Árbitro y Asistente Árbitro - Real Federación Española de Fútbol
+- Más de 1,000 partidos arbitrados.
+- Gestión de equipos y toma de decisiones rápidas.
+
+### Software Developer Internship - Esycontrol
+- Desarrollo de soluciones en C# y Blazor.
+
+### UVigo Motorsport - Departamento de Propulsión
+- Diseño y optimización de sistemas de propulsión.
+- Participación en competiciones internacionales.
+
+## 🛠️ Habilidades
+- **Idiomas**: Español (nativo), Inglés (C1)
+- **Tecnologías**: Python, C#, Catia V5, Microsoft Office
+- **Habilidades**: Resolución de problemas, liderazgo, trabajo en equipo
+
+## 🌟 Intereses
+- Consultoría y Private Equity
+- Optimización de procesos
+- Objetivos de Desarrollo Sostenible (ODS 2030)
+```
+
+Espero que esto refleje bien tu perfil. Si quieres personalizar algo más, solo dime.
