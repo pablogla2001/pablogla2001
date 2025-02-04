@@ -84,5 +84,3 @@ Hola, soy **Pablo García López-Arias**, ingeniero industrial y MBA por la Univ
 - Optimización de procesos
 - Objetivos de Desarrollo Sostenible (ODS 2030)
 ```
-
-Espero que esto refleje bien tu perfil. Si quieres personalizar algo más, solo dime.
