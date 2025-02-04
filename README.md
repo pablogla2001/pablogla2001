@@ -1,88 +1,33 @@
-# Blog Personal
 
-## Sobre Mí
 
-Hola, soy **Pablo García López-Arias**, ingeniero industrial y MBA por la Universidad Pontificia Comillas, apasionado por la consultoría, la optimización de procesos y el desarrollo tecnológico. A lo largo de mi carrera he compaginado estudios, prácticas profesionales y actividades extracurriculares como el arbitraje y la participación en un equipo de Fórmula Student, lo que me ha permitido desarrollar habilidades como liderazgo, resolución de problemas y trabajo en equipo.
+<!--
+  <<< Author notes: Step 2 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
+  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
+-->
 
-## Experiencia Profesional
+## Step 2: Configure your site
 
-### Talent Energy Internship - Repsol S.A.  
-**Madrid, España** (Septiembre 2024 - Actualidad)
-- Automatización de tareas relacionadas con transacciones de negocio en los departamentos de refinado y química.
-- Uso de herramientas como Automation Anywhere, Power Automate y SAP.
+_You turned on GitHub Pages! :tada:_
 
-### Árbitro 3ºRFEF y Asistente en 2ºRFEF - Real Federación Española de Fútbol  
-**España** (Septiembre 2017 - Actualidad)
-- Árbitro más joven en la división 3ºRFEF.
-- Tres ascensos consecutivos en tres años.
-- Gestión de equipos en más de 1,000 partidos con público de hasta 2,000 personas.
+We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
 
-### Software Developer Internship - Esycontrol  
-**Vigo, España** (Abril 2023 - Junio 2023)
-- Desarrollo de una interfaz Blazor para control de procesos industriales.
-- Creación de un generador automático de entidades para optimizar la producción de código.
+Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
 
-### Miembro del Departamento de Propulsión - UVigo Motorsport  
-**Vigo, España** (Octubre 2020 - Abril 2021)
-- Diseño y mejora de sistemas de propulsión vehicular.
-- Participación en competiciones internacionales en España, Alemania y Países Bajos.
+We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
 
-## Formación Académica
+### :keyboard: Activity: Configure your site
 
-- **MBA** - Universidad Pontificia Comillas, Madrid  
-- **Máster en Ingeniería Industrial** - Universidad Pontificia Comillas, Madrid  
-- **Grado en Ingeniería en Tecnologías Industriales** - Universidad de Vigo, Vigo (2023)  
-  - Matrícula de honor en Cálculo II y Ecuaciones Diferenciales.
+1. Browse to the `_config.yml` file in the `my-pages` branch.
+1. In the upper right corner, open the file editor.
+1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
+   ```yml
+   theme: minima
+   ```
+1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
+1. Commit your changes.
+1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
+1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-## Habilidades
 
-- Lenguajes de programación: Python, C#.
-- Diseño CAD: Catia V5.
-- Automatización: Automation Anywhere, Power Automate.
-- Idiomas: Español (nativo), Inglés (C1).
-- Competencias blandas: Liderazgo, trabajo en equipo, toma de decisiones bajo presión.
-
----
-
-# CV en Formato README
-
-```markdown
-# Pablo García López-Arias
-
-📫 Contacto: pablogla2001@gmail.com  
-🌐 LinkedIn: [Perfil](https://www.linkedin.com/in/pablo-garcialopezarias)  
-
-## 📚 Formación
-- **MBA** - Universidad Pontificia Comillas, Madrid
-- **Máster en Ingeniería Industrial** - Universidad Pontificia Comillas, Madrid
-- **Grado en Ingeniería en Tecnologías Industriales** - Universidad de Vigo
-
-## 💼 Experiencia Profesional
-
-### Talent Energy Internship - Repsol S.A.
-- Automatización de procesos empresariales.
-- Herramientas: Automation Anywhere, Power Automate, SAP.
-
-### Árbitro y Asistente Árbitro - Real Federación Española de Fútbol
-- Más de 1,000 partidos arbitrados.
-- Gestión de equipos y toma de decisiones rápidas.
-
-### Software Developer Internship - Esycontrol
-- Desarrollo de soluciones en C# y Blazor.
-
-### UVigo Motorsport - Departamento de Propulsión
-- Diseño y optimización de sistemas de propulsión.
-- Participación en competiciones internacionales.
-
-## 🛠️ Habilidades
-- **Idiomas**: Español (nativo), Inglés (C1)
-- **Tecnologías**: Python, C#, Catia V5, Microsoft Office
-- **Habilidades**: Resolución de problemas, liderazgo, trabajo en equipo
-
-## 🌟 Intereses
-- Consultoría y Private Equity
-- Optimización de procesos
-- Objetivos de Desarrollo Sostenible (ODS 2030)
-```
-
-Espero que esto refleje bien tu perfil. Si quieres personalizar algo más, solo dime.
