@@ -2,14 +2,14 @@
 
 ## Sobre Mí
 
-Hola, soy **Pablo García López-Arias**, ingeniero industrial y MBA por la Universidad Pontificia Comillas, apasionado por la consultoría, la optimización de procesos y el desarrollo tecnológico. A lo largo de mi carrera he compaginado estudios, prácticas profesionales y actividades extracurriculares como el arbitraje y la participación en un equipo de Fórmula Student, lo que me ha permitido desarrollar habilidades como liderazgo, resolución de problemas y trabajo en equipo.
+Hola, soy **Pablo García López-Arias**, ingeniero industrial superior y con un MBA por la Universidad Pontificia Comillas, apasionado por la consultoría estratégica, la optimización de procesos y el desarrollo tecnológico. A lo largo de mi carrera he compaginado estudios, prácticas profesionales y actividades extracurriculares como el arbitraje y la participación en un equipo de Fórmula Student, lo que me ha permitido desarrollar habilidades como liderazgo, resolución de problemas y trabajo en equipo en diversos escenarios.
 
 ## Experiencia Profesional
 
 ### Talent Energy Internship - Repsol S.A.  
-**Madrid, España** (Septiembre 2024 - Actualidad)
-- Automatización de tareas relacionadas con transacciones de negocio en los departamentos de refinado y química.
-- Uso de herramientas como Automation Anywhere, Power Automate y SAP.
+**Madrid, España** (Septiembre 2024 - Febrero 2025)
+- Automatización de tareas relacionadas con transacciones de negocio en el área de Refino y Química.
+- Uso de herramientas como Automation Anywhere, Power Automate, Power BI, Salesforce y SAP.
 
 ### Árbitro 3ºRFEF y Asistente en 2ºRFEF - Real Federación Española de Fútbol  
 **España** (Septiembre 2017 - Actualidad)
@@ -29,18 +29,19 @@ Hola, soy **Pablo García López-Arias**, ingeniero industrial y MBA por la Univ
 
 ## Formación Académica
 
-- **MBA** - Universidad Pontificia Comillas, Madrid  
-- **Máster en Ingeniería Industrial** - Universidad Pontificia Comillas, Madrid  
+- **MBA** - Universidad Pontificia Comillas, Madrid
+  - TFM: Renewable energy in Poland: Opportunities and strategies for market entry  
+- **Máster en Ingeniería Industrial** - Universidad Pontificia Comillas, Madrid
+  - TFM: Desarrollo de una Smart City en Pontevedra: Gestión del tráfico y optimización energética mediante estructura V2G  
 - **Grado en Ingeniería en Tecnologías Industriales** - Universidad de Vigo, Vigo (2023)  
-  - Matrícula de honor en Cálculo II y Ecuaciones Diferenciales.
-
+  - Matrícula de honor en Cálculo II y Ecuaciones Diferenciales
 ## Habilidades
 
-- Lenguajes de programación: Python, C#.
-- Diseño CAD: Catia V5.
-- Automatización: Automation Anywhere, Power Automate.
-- Idiomas: Español (nativo), Inglés (C1).
-- Competencias blandas: Liderazgo, trabajo en equipo, toma de decisiones bajo presión.
+- Lenguajes de programación: Python, C, C#.
+- Diseño CAD: Catia V5, Autocad.
+- Softwares: Automation Anywhere, Power Automate, Power Apps, Power BI, Microsoft Office Suite.
+- Idiomas: Español (nativo), Inglés (C1), Portugués (Beginner).
+- Soft Skills: Liderazgo, trabajo en equipo, toma de decisiones bajo presión, disciplina.
 
 ---
 
